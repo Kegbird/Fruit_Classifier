@@ -8,7 +8,7 @@ Two different network are built to solve 2 classification problems:
 
 # Performances
 
-The classification is very high on both experiments:
+The classification is very high on both experiments.
 
 Fruit type classification: 
 
