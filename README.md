@@ -3,6 +3,7 @@ This repository contains a colab project developed for the course MSA @ Unimi; t
 Two different network are built to solve 2 classification problems:
 
 -Fruit type classification
+
 -Fruit variety classification
 
 #Performances
